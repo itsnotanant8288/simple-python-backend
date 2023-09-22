@@ -1,0 +1,5 @@
+Flask==2.1.1
+Flask-SQLAlchemy==2.5.1
+psycopg2==2.9.1  # Add the appropriate database driver for your database system
+SQLAlchemy==1.4.27  # Specify the appropriate SQLAlchemy version
+Alembic==1.7.4  # Specify the appropriate Alembic version
